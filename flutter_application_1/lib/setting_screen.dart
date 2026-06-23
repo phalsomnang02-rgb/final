@@ -27,7 +27,7 @@ class _SettingScreenState extends State<SettingScreen> {
         children: [
           Padding(
             padding: EdgeInsets.all(8),
-            child:Image.asset("images/love1.png",height: 200,)          ),
+            child:Image.asset("images/logo.png",height: 200,)          ),
           Divider(),
            Card(
             child: ListTile(
